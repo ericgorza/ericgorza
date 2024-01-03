@@ -1,28 +1,32 @@
 ### Hello! - Olá!
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 📐 Bachelor's of Science in Civil Engineering.
+- 🖥️ IT Specialist and in love with Computer Science.
+- 🇺🇲 Currently in Los Angeles - CA.
+- 🇧🇷 Born and raised in Brazil.
+- 🔭 I’m currently working on getting Software Engineer Specialization.
+- 🌱 I’m currently learning AI Engineering.
 - 📫 How to reach me | Contato : ericgorza@gmail.com
 - 😄 Pronouns | Pronome : he/him | ele/dele
-- ⚡ Fun fact: ...
+- 🎸 Fun Fact: I'm a professional musician and audio engineer graduated from Musicians Institute - Hollywood.
 
+<br> 
+<br>
 
 <div>
   <a href="https://github.com/ericgorza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericgorza&show_icons=true)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericgorza"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=ericgorza&hide=contribs,prs&hide_rank=True"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericgorza"/>
 </div>
 
+<br>
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eric-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Eric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Eric-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Eric-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Eric-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Eric-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Eric-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
   ##
