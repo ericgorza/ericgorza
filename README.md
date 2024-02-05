@@ -1,7 +1,7 @@
 ### Hello! - Olá!
 
 - 📐 Bachelor's of Science in Civil Engineering.
-- 🖥️ IT Specialist and in love with Computer Science.
+- 🖥️ Full-Stack Developer and in love with Computer Science.
 - 🇺🇲 Currently in Los Angeles - CA.
 - 🇧🇷 Born and raised in Brazil.
 - 🔭 I’m currently working on getting Software Engineer Specialization.
