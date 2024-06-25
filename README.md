@@ -1,11 +1,9 @@
 ### Hello! - Olá!
 
-- 📐 Bachelor's of Science in Civil Engineering.
-- 🖥️ Full-Stack Developer and in love with Computer Science.
+- 📐 Bachelor's of Civil Engineering.
+- 🖥️ Backend Developer at FlashCRM.
 - 🇺🇲 Currently in Los Angeles - CA.
 - 🇧🇷 Born and raised in Brazil.
-- 🔭 I’m currently working on getting Software Engineer Specialization.
-- 🌱 I’m currently learning AI Engineering.
 - 📫 How to reach me | Contato : ericgorza@gmail.com
 - 😄 Pronouns | Pronome : he/him | ele/dele
 - 🎸 Fun Fact: I'm a professional musician and audio engineer graduated from Musicians Institute - Hollywood.
